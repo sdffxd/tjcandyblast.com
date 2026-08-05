@@ -1,0 +1,6 @@
+{
+  "name": "T.J. Candy Blast",
+  "description": "Official website and interactive portal for T.J. Candy Blast. Explore Candy Worlds, play interactive match-3, check news, rewards, FAQ, and join community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
